@@ -1,0 +1,3 @@
+[submodule "hw-libraries"]
+	path = hw-libraries
+	url = https://github.com/elezbyl/hw-libraries.git
