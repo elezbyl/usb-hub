@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "70fc9802-eae7-4543-8902-0329de429615")
+	(paper "A4")
+	(title_block
+		(title "USB HUBs")
+		(date "2024-11-18")
+		(rev "1.00")
+		(company "elezbyl")
+	)
+	(lib_symbols)
+)

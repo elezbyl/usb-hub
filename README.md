@@ -22,16 +22,13 @@ Repository contains multiple components like ARCH, HW, FW, SW and DOCs.
 
 To prepare the repository:
 ```
-git clone https://github.com/elezbyl/usb-hub.git
-cd usb-hub
-git submodule update --init
+git clone --recurse-submodules https://github.com/elezbyl/usb-hub.git
 ```
-
 # ARCH
 More details can be found [here](arch/README.md)
 
-# FW
-More details can be found [here](fw/README.md)
-
 # HW
 More details can be found [here](hw/README.md)
+
+# FW
+More details can be found [here](fw/README.md)

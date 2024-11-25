@@ -62,12 +62,22 @@ Build Info:
 
 ## Additional documents
 
+USB HUB:
 * [User guide: TUSB8041RGC REVD Evaluation Module User's Guide](https://www.ti.com/lit/pdf/sllu198)
 * [Design guide: 2-Port USB 3.0 Hub (TIDA-00287)](https://www.ti.com/lit/pdf/tidu428)
 * [Application note: High-Speed Layout Guidelines for Signal Conditioners and USB Hubs](https://www.ti.com/lit/pdf/slla414)
-* [Application note: Guidelines for oscillator design on STM8AF/AL/S and STM32 MCUs/MPUs](https://www.st.com/resource/en/application_note/an2867-guidelines-for-oscillator-design-on-stm8afals-and-stm32-mcusmpus-stmicroelectronics.pdf)
-* [Application note: EMC design guide for STM8, STM32 and legacy MCUs](https://www.st.com/resource/en/application_note/an1709-emc-design-guide-for-stm8-stm32-and-legacy-mcus-stmicroelectronics.pdf)
-* [Basics of power supply design for STM32 MCU](https://wiki.st.com/stm32mcu/wiki/Basics_of_power_supply_design_for_MCU)
+* [Selection and Specification of Crystals for Texas Instruments USB 2.0 Devices](https://www.ti.com/lit/an/slla122/slla122.pdf)
+
+MCU:
+* [AN2867: Application note: Guidelines for oscillator design on STM8AF/AL/S and STM32 MCUs/MPUs](https://www.st.com/resource/en/application_note/an2867-guidelines-for-oscillator-design-on-stm8afals-and-stm32-mcusmpus-stmicroelectronics.pdf)
+* [STM32 MCU Series HSE MHz Crystal Selection Tool](https://ecsxtal.com/stm32-mcu-series-hse-mhz-crystal-selection-tool/)
+* [AN1709: Application note: EMC design guide for STM8, STM32 and legacy MCUs](https://www.st.com/resource/en/application_note/an1709-emc-design-guide-for-stm8-stm32-and-legacy-mcus-stmicroelectronics.pdf)
+* [AN2606: STM32 microcontroller system memory boot mode](https://www.st.com/resource/en/application_note/an2606-stm32-microcontroller-system-memory-boot-mode-stmicroelectronics.pdf)
+* [AN5093: Getting started with STM32G4 Series hardware development boards](https://www.st.com/resource/en/application_note/an5093-getting-started-with-stm32g4-series--hardware-development-boards-stmicroelectronics.pdf)
+* [AN4879: Introduction to USB hardware and PCB guidelines using STM32 MCUs](https://www.st.com/resource/en/application_note/an4879-introduction-to-usb-hardware-and-pcb-guidelines-using-stm32-mcus-stmicroelectronics.pdf)
+* [Wiki: Basics of power supply design for STM32 MCU](https://wiki.st.com/stm32mcu/wiki/Basics_of_power_supply_design_for_MCU)
+* [Wiki: Introduction to USB with STM32](https://wiki.st.com/stm32mcu/wiki/Introduction_to_USB_with_STM32)
+* [Training: STM32G4 System Power](https://www.st.com/resource/en/product_training/STM32G4-System-Power_control_PWR.pdf)
 
 ## Current consumption
 Power architecture details can be found [here](../arch/power.md). It shows power rails derivation and power rails topology.
