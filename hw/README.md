@@ -70,6 +70,8 @@ Build Info:
 * [Basics of power supply design for STM32 MCU](https://wiki.st.com/stm32mcu/wiki/Basics_of_power_supply_design_for_MCU)
 
 ## Current consumption
+Power architecture details can be found [here](../arch/power.md). It shows power rails derivation and power rails topology.
+
 Below is the list of all system power rails with details about how they are derived.
 
 * 1.1V SYS:

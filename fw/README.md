@@ -1,2 +1,2 @@
-# USB HUB Project Firmware
+# USB HUB Board Firmware
 TBD

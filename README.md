@@ -1,4 +1,4 @@
-# USB HUB Projects
+# USB HUB Board Project
 
 <p align="right">
   <img src="https://www.oshwa.org/wp-content/uploads/2014/03/oshw-logo-100-px.png" />
@@ -15,8 +15,10 @@ USB HUB Board project is an open source project described by following:
 * downstream ports with power consumption monitoring,
 * main system voltages rails power consumption monitoring.
 
+USB HUB Board high level diagram is available here:
+[High Level](arch/high_level.md)
 
-Repository here contains multiple components like HW, FW, SW, docs.
+Repository contains multiple components like ARCH, HW, FW, SW and DOCs.
 
 To prepare the repository:
 ```
@@ -25,10 +27,11 @@ cd usb-hub
 git submodule update --init
 ```
 
+# ARCH
+More details can be found [here](arch/README.md)
+
 # FW
-TBD
 More details can be found [here](fw/README.md)
 
 # HW
-TBD
 More details can be found [here](hw/README.md)
